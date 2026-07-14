@@ -4,7 +4,7 @@
     <br>
 </h1>
 
-<p align="center"><strong>Repository:</strong> <a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading">github.com/PlaceNL2026/best-of-algorithmic-trading</a></p>
+<p align="center"><strong>Repository:</strong> <a href="https://github.com/kazelad/algo-trading-agent.git">github.com/PlaceNL2026/best-of-algorithmic-trading</a></p>
 
 <p align="center">
     <strong>🏆 A ranked list of open-source algorithmic trading projects—bots, frameworks, APIs, indicators, books, courses, and communities—kept up to date on a regular schedule.</strong>
@@ -14,7 +14,7 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#contents" title="Project count"><img src="https://img.shields.io/badge/projects-109-blue.svg?color=5ac4bf"></a>
     <a href="#contribution" title="Contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/PlaceNL2026/best-of-algorithmic-trading?color=green&label=updated"></a>
+    <a href="https://github.com/kazelad/algo-trading-agent.git/releases" title="Last update"><img src="https://img.shields.io/github/release-date/PlaceNL2026/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
@@ -23,7 +23,7 @@
 
 **How to use this list:** Browse by category below, follow the links to projects you care about, and always verify licenses and activity before depending on something in production.
 
-**Want to suggest a project?** Open an [issue](https://github.com/PlaceNL2026/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/PlaceNL2026/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/PlaceNL2026/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
+**Want to suggest a project?** Open an [issue](https://github.com/kazelad/algo-trading-agent.git/issues/new/choose), send a [pull request](https://github.com/kazelad/algo-trading-agent.git/pulls), or edit [`projects.yaml`](https://github.com/kazelad/algo-trading-agent.git/edit/main/projects.yaml) directly. Contributions are welcome.
 
 > Discover more [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -442,10 +442,10 @@
 
 Contributions are encouraged. You can:
 
-- Use the [issue templates](https://github.com/PlaceNL2026/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
-- Edit [`projects.yaml`](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/PlaceNL2026/best-of-algorithmic-trading/edit/main/projects.yaml)).
+- Use the [issue templates](https://github.com/kazelad/algo-trading-agent.git/issues/new/choose) to propose additions or corrections.
+- Edit [`projects.yaml`](https://github.com/kazelad/algo-trading-agent.git/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/kazelad/algo-trading-agent.git/edit/main/projects.yaml)).
 
-Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
+Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/kazelad/algo-trading-agent.git/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/kazelad/algo-trading-agent.git/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ### For maintainers (TypeScript checks)
 
