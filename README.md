@@ -4,7 +4,7 @@
     <br>
 </h1>
 
-<p align="center"><strong>Repository:</strong> <a href="https://github.com/kazelad/algo-trading-agent.git">github.com/PlaceNL2026/best-of-algorithmic-trading</a></p>
+<p align="center"><strong>Repository:</strong> <a href="https://github.com/kazelad/algo-trading-agent.git">https://github.com/kazelad/algo-trading-agent.git</a></p>
 
 <p align="center">
     <strong>🏆 A ranked list of open-source algorithmic trading projects—bots, frameworks, APIs, indicators, books, courses, and communities—kept up to date on a regular schedule.</strong>
